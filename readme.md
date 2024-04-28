@@ -8,4 +8,3 @@ python train.py
 ```
 ### File Structure
 - Model architechure: ./model
-- Test
